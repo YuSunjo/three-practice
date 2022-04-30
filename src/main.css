@@ -1,9 +1,10 @@
 body {
 	margin: 0;
+	background: dodgerblue;
 }
 
-#three-canvas {
-	position: absolute;
-	left: 0;
-	top: 0;
-}
+/*#three-canvas {*/
+/*	position: absolute;*/
+/*	left: 0;*/
+/*	top: 0;*/
+/*}*/
