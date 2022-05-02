@@ -6,6 +6,7 @@
 // import example from './ex/ex06';
 // import example from './ex/ex07';
 // import example from './ex/ex08';
-import example from './ex2/ex01';
+// import example from './ex2/ex01';
+import example from './ex2/ex02';
 
 example();
